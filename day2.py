@@ -79,7 +79,7 @@ address = "Ombahal"
 #     print("you are not graded")
 
 
-gender = "A"
+gender = "F"
 if gender == "F":
     print("Female")
 else:
@@ -87,7 +87,6 @@ else:
 
 data = "Female" if gender == "F" else "Male" 
 # true condition first ma and false condition 2nd ma
-
 
 
 
