@@ -1,12 +1,12 @@
 # python day1.py 
-# # #   print("first class")
-# # # print("hello", 1, 2+2)
+#    print("first class")
+#  print("hello", 1, 2+2)
 
 
-# # # #  a = True (must be capital t for boolean values)
+#  a = True (must be capital t for boolean values)
 
-# # # #  a = 10
-# # # #  print(type(a))\
+#   a = 10
+#   print(type(a))\
 
 # # # # a = 10.10
 # # # #  print(type(a))
