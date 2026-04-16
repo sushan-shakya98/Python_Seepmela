@@ -1,4 +1,4 @@
-# python day1.py 
+# python day1.py
 #    print("first class")
 #  print("hello", 1, 2+2)
 
@@ -49,4 +49,4 @@
 # print(5 <= 5) less than or equal to
 
 
-#print(1==1 or "test"=="hello")
+print(1 == 1 or "test" == "hello")  # noqa E265

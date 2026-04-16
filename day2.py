@@ -1,4 +1,4 @@
-#pep8??? (assignment)
+# pep8??? (assignment)
 
 # # input function
 # #type casting =type conversion is a same thing
@@ -16,7 +16,7 @@
 
 # b = int(a)
 # print("after type casting", type(b))
- 
+
 # a = input("Enter the 1st value:...")
 # b = input("Enter the 2nd value:...")
 # print(int(a)+int(b))
@@ -31,8 +31,8 @@
 name = "Sushan"
 age = 28
 address = "Ombahal"
-#output 
-#"My name is suman and age is 14 and address is "dang"
+# output
+# "My name is suman and age is 14 and address is "dang"
 
 # print("My name is", name, "and age is", age, "and address is", address)
 #  output = "My name is" + " " + name + " and age is" + " " + str(age) + " and address is" + " " + address
@@ -62,9 +62,9 @@ address = "Ombahal"
 # if ("test"!="hello"):
 #     print("this is str copmare")
 # else:}
-#print("this is else condition")
+# print("this is else condition")
 
-#Assignment convert percentage to division
+# Assignment convert percentage to division
 
 # percentage = float(input("Enter your value: "))
 # if(percentage>=80 and percentage<=100):
@@ -82,11 +82,9 @@ address = "Ombahal"
 gender = "F"
 if gender == "F":
     print("Female")
+
 else:
     print("Male")
 
-data = "Female" if gender == "F" else "Male" 
+data = "Female" if gender == "F" else "Male"
 # true condition first ma and false condition 2nd ma
-
-
-
