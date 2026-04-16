@@ -7,8 +7,8 @@
 # remote
 # local
 # remote Url
+# rebase
 
-
-#learned git and github
+# learned git and github
 
 a = "This is changed code"
