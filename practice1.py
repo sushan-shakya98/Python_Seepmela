@@ -89,15 +89,15 @@
 # Program 2: Largest of 3 numbers
 # Write it and send 👍
 
-num1 = float(input("Enter 1st number"))
-num2 = float(input("Enter 2nd number"))
-num3 = float(input("Enter 3rd number"))
-if (num1 > num2 and num1 > num3):
-    print("Num1 is greater")
-elif (num2 > num1 and num2 > num3):
-    print("Num2 is greater")
-else:
-    print("Num3 is greater")
+# num1 = float(input("Enter 1st number"))
+# num2 = float(input("Enter 2nd number"))
+# num3 = float(input("Enter 3rd number"))
+# if (num1 > num2 and num1 > num3):
+#     print("Num1 is greater")
+# elif (num2 > num1 and num2 > num3):
+#     print("Num2 is greater")
+# else:
+#     print("Num3 is greater")
     
 
 
